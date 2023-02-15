@@ -1,0 +1,15 @@
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\bin\Debug\net6.0\Sem2Task12.exe
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\bin\Debug\net6.0\Sem2Task12.deps.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\bin\Debug\net6.0\Sem2Task12.runtimeconfig.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\bin\Debug\net6.0\Sem2Task12.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\bin\Debug\net6.0\Sem2Task12.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.csproj.AssemblyReference.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.AssemblyInfoInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.AssemblyInfo.cs
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.csproj.CoreCompileInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\refint\Sem2Task12.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\Sem2Task12.genruntimeconfig.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem2Task12\obj\Debug\net6.0\ref\Sem2Task12.dll

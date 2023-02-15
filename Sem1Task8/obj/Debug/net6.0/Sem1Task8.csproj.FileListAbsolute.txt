@@ -1,0 +1,15 @@
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\bin\Debug\net6.0\Sem1Task8.exe
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\bin\Debug\net6.0\Sem1Task8.deps.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\bin\Debug\net6.0\Sem1Task8.runtimeconfig.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\bin\Debug\net6.0\Sem1Task8.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\bin\Debug\net6.0\Sem1Task8.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.csproj.AssemblyReference.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.AssemblyInfoInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.AssemblyInfo.cs
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.csproj.CoreCompileInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\refint\Sem1Task8.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\Sem1Task8.genruntimeconfig.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem1Task8\obj\Debug\net6.0\ref\Sem1Task8.dll
