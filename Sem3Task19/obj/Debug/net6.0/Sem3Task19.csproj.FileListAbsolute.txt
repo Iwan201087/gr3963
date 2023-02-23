@@ -1,0 +1,15 @@
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.csproj.AssemblyReference.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.AssemblyInfoInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.AssemblyInfo.cs
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.csproj.CoreCompileInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\bin\Debug\net6.0\Sem3Task19.exe
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\bin\Debug\net6.0\Sem3Task19.deps.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\bin\Debug\net6.0\Sem3Task19.runtimeconfig.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\bin\Debug\net6.0\Sem3Task19.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\bin\Debug\net6.0\Sem3Task19.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\refint\Sem3Task19.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\Sem3Task19.genruntimeconfig.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem3Task19\obj\Debug\net6.0\ref\Sem3Task19.dll
