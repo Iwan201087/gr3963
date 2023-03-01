@@ -1,0 +1,15 @@
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.csproj.AssemblyReference.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.AssemblyInfoInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.AssemblyInfo.cs
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.csproj.CoreCompileInputs.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\bin\Debug\net6.0\Sem5Task34.exe
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\bin\Debug\net6.0\Sem5Task34.deps.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\bin\Debug\net6.0\Sem5Task34.runtimeconfig.json
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\bin\Debug\net6.0\Sem5Task34.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\bin\Debug\net6.0\Sem5Task34.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\refint\Sem5Task34.dll
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.pdb
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\Sem5Task34.genruntimeconfig.cache
+D:\Обучение\Gruppa3963\gr3963-1\Sem5Task34\obj\Debug\net6.0\ref\Sem5Task34.dll
